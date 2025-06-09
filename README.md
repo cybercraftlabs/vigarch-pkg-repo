@@ -1,4 +1,8 @@
-# Installation
+# Vigilante Arch Core Repo
+
+![Vigarch](https://placehold.co/800x200/282a36/f8f8f2?text=Vigarch+PKG+Repo)
+
+## Installation
 
 Add the following code snippet to your `/etc/pacman.conf`:
 
